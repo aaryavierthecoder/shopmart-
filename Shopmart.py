@@ -1,6 +1,6 @@
 print("Welcome to the ShopMart online cart \n")
 print("******************************************************************************************************************** \n")
-avilable_items= ["apple", "banana", "milk", "egg", "mango", "spinach", "orange", "ice cream", "pizza", "french fries"] or ["apples", "bannas", "milks", "eggs", "mangoes", "spinaches", "oranges", "french fries","pizzas", "ice creams" ]
+avilable_items= ["apple", "banana", "milk", "egg", "mango", "spinach", "orange", "ice cream", "pizza", "french fries"]
 prices=[1.25, 1.46, 3.77, 4.99, 3.99, 1.28, 4.33, 5.00, 7.66, 4.68 ]
 cart=[] 
 Bill=0.00
